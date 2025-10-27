@@ -36,8 +36,8 @@ const translations = {
         
         // Privacy Policy Page
         "privacy-page-title": "Privacy Policy",
-        "pp-effective": "<strong>Effective Date:</strong> January 1, 2025",
-        "pp-updated": "<strong>Last Updated:</strong> January 1, 2025",
+        "pp-effective": "<strong>Effective Date:</strong> August 3, 2025",
+        "pp-updated": "<strong>Last Updated:</strong> August 3, 2025",
         "pp-h1": "1. Introduction",
         "pp-intro-p1": "RNDA (Research and Development Asia), operating as NeuronPrime (\"we,\" \"us,\" or \"our\"), is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website, use our services, or interact with us.",
         "pp-intro-p2": "RNDA is registered in the Republic of Kazakhstan with BIN: 250740005313.",
@@ -93,8 +93,8 @@ const translations = {
         
         // Terms of Use Page
         "terms-page-title": "Terms of Use",
-        "tou-effective": "<strong>Effective Date:</strong> January 1, 2025",
-        "tou-updated": "<strong>Last Updated:</strong> January 1, 2025",
+        "tou-effective": "<strong>Effective Date:</strong> August 3, 2025",
+        "tou-updated": "<strong>Last Updated:</strong> August 3, 2025",
         "tou-h1": "1. Agreement to Terms",
         "tou-1-p1": "These Terms of Use constitute a legally binding agreement between you and RNDA (Research and Development Asia), operating as NeuronPrime (\"Company,\" \"we,\" \"us,\" or \"our\"), concerning your access to and use of our website, applications, and services (collectively, the \"Services\").",
         "tou-1-p2": "RNDA is registered in the Republic of Kazakhstan with BIN: 250740005313.",
@@ -207,8 +207,8 @@ const translations = {
         
         // Privacy Policy Page
         "privacy-page-title": "Политика за поверителност",
-        "pp-effective": "<strong>Дата на влизане в сила:</strong> 1 януари 2025",
-        "pp-updated": "<strong>Последна актуализация:</strong> 1 януари 2025",
+        "pp-effective": "<strong>Дата на влизане в сила:</strong> 3 август 2025",
+        "pp-updated": "<strong>Последна актуализация:</strong> 3 август 2025",    
         "pp-h1": "1. Въведение",
         "pp-intro-p1": "RNDA (Research and Development Asia), действаща като NeuronPrime (\"ние\", \"нас\" или \"нашият\"), се ангажира да защитава вашата поверителност. Тази Политика за поверителност обяснява как събираме, използваме, разкриваме и защитаваме вашата информация, когато посещавате нашия уебсайт, използвате нашите услуги или взаимодействате с нас.",
         "pp-intro-p2": "RNDA е регистрирана в Република Казахстан с БИН: 250740005313.",
@@ -264,8 +264,8 @@ const translations = {
         
         // Terms of Use Page
         "terms-page-title": "Условия за ползване",
-        "tou-effective": "<strong>Дата на влизане в сила:</strong> 1 януари 2025",
-        "tou-updated": "<strong>Последна актуализация:</strong> 1 януари 2025",
+        "tou-effective": "<strong>Дата на влизане в сила:</strong> 3 август 2025",
+        "tou-updated": "<strong>Последна актуализация:</strong> 3 август 2025",
         "tou-h1": "1. Съгласие с условията",
         "tou-1-p1": "Тези Условия за ползване представляват правно обвързващо споразумение между вас и RNDA (Research and Development Asia), действаща като NeuronPrime (\"Компанията\", \"ние\", \"нас\" или \"нашият\"), относно вашия достъп и използване на нашия уебсайт, приложения и услуги (колективно \"Услугите\").",
         "tou-1-p2": "RNDA е регистрирана в Република Казахстан с БИН: 250740005313.",
@@ -378,8 +378,8 @@ const translations = {
         
         // Privacy Policy Page
         "privacy-page-title": "Политика конфиденциальности",
-        "pp-effective": "<strong>Дата вступления в силу:</strong> 1 января 2025",
-        "pp-updated": "<strong>Последнее обновление:</strong> 1 января 2025",
+        "pp-effective": "<strong>Дата вступления в силу:</strong> 3 август 2025",
+        "pp-updated": "<strong>Последнее обновление:</strong> 3 август 2025",
         "pp-h1": "1. Введение",
         "pp-intro-p1": "RNDA (Research and Development Asia), работающая как NeuronPrime (\"мы\", \"нас\" или \"наше\"), стремится защищать вашу конфиденциальность. Эта Политика конфиденциальности объясняет, как мы собираем, используем, раскрываем и защищаем вашу информацию, когда вы посещаете наш веб-сайт, используете наши услуги или взаимодействуете с нами.",
         "pp-intro-p2": "RNDA зарегистрирована в Республике Казахстан с БИН: 250740005313.",
@@ -435,8 +435,8 @@ const translations = {
         
         // Terms of Use Page
         "terms-page-title": "Условия использования",
-        "tou-effective": "<strong>Дата вступления в силу:</strong> 1 января 2025",
-        "tou-updated": "<strong>Последнее обновление:</strong> 1 января 2025",
+        "tou-effective": "<strong>Дата вступления в силу:</strong> 3 август 2025",
+        "tou-updated": "<strong>Последнее обновление:</strong> 3 август 2025",
         "tou-h1": "1. Согласие с условиями",
         "tou-1-p1": "Эти Условия использования представляют собой юридически обязывающее соглашение между вами и RNDA (Research and Development Asia), работающей как NeuronPrime (\"Компания\", \"мы\", \"нас\" или \"наше\"), касающееся вашего доступа и использования нашего веб-сайта, приложений и услуг (совместно \"Услуги\").",
         "tou-1-p2": "RNDA зарегистрирована в Республике Казахстан с БИН: 250740005313.",
@@ -549,8 +549,8 @@ const translations = {
         
         // Privacy Policy Page
         "privacy-page-title": "Политика конфиденциальности",
-        "pp-effective": "<strong>Дата вступления в силу:</strong> 1 января 2025",
-        "pp-updated": "<strong>Последнее обновление:</strong> 1 января 2025",
+        "pp-effective": "<strong>Дата вступления в силу:</strong> 3 август 2025",
+        "pp-updated": "<strong>Последнее обновление:</strong> 3 август 2025",
         "pp-h1": "1. Введение",
         "pp-intro-p1": "RNDA (Research and Development Asia), работающая как NeuronPrime (\"мы\", \"нас\" или \"наше\"), стремится защищать вашу конфиденциальность. Эта Политика конфиденциальности объясняет, как мы собираем, используем, раскрываем и защищаем вашу информацию, когда вы посещаете наш веб-сайт, используете наши услуги или взаимодействуете с нами.",
         "pp-intro-p2": "RNDA зарегистрирована в Республике Казахстан с БИН: 250740005313.",
@@ -606,8 +606,8 @@ const translations = {
         
         // Terms of Use Page
         "terms-page-title": "Условия использования",
-        "tou-effective": "<strong>Дата вступления в силу:</strong> 1 января 2025",
-        "tou-updated": "<strong>Последнее обновление:</strong> 1 января 2025",
+        "tou-effective": "<strong>Дата вступления в силу:</strong> 3 август 2025",
+        "tou-updated": "<strong>Последнее обновление:</strong> 3 август 2025",
         "tou-h1": "1. Согласие с условиями",
         "tou-1-p1": "Эти Условия использования представляют собой юридически обязывающее соглашение между вами и RNDA (Research and Development Asia), работающей как NeuronPrime (\"Компания\", \"мы\", \"нас\" или \"наше\"), касающееся вашего доступа и использования нашего веб-сайта, приложений и услуг (совместно \"Услуги\").",
         "tou-1-p2": "RNDA зарегистрирована в Республике Казахстан с БИН: 250740005313.",

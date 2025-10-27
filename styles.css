@@ -267,6 +267,10 @@ header.header-dark .mobile-menu-toggle span {
     background-color: var(--color-text-dark);
 }
 
+header.header-dark .mobile-menu {
+    background-color: var(--bg-footer);
+}
+
 /* =====================================
    Navigation
    ===================================== */
